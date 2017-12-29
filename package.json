@@ -1,0 +1,25 @@
+{
+  "name": "toothrot-monarch",
+  "version": "1.0.0",
+  "description": "Monarch colorizer definitions for toothrot story files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toothrot-if/toothrot-monarch.git"
+  },
+  "keywords": [
+    "monarch",
+    "colorizer",
+    "toothrot",
+    "if"
+  ],
+  "author": "J. Steinbeck",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/toothrot-if/toothrot-monarch/issues"
+  },
+  "homepage": "https://github.com/toothrot-if/toothrot-monarch#readme"
+}
